@@ -6,7 +6,7 @@ Buradaki mvn,mvnw gibi dosyalar bilgisayarınızda maven yüklü değil ise  spr
 
 -Api lerde isimlendirme standartı çoğuldur.
 
--http://8080/products -->Bu bir Controller'dir
+-http://8080/otherPage -->Bu bir Controller'dir
 
 Bize bir istek geliyor o isteğe nasıl yanıtlayacağına Controller karar veriyor.
 
@@ -28,4 +28,4 @@ Bu format Json formatıdır.
 
 ![image](https://user-images.githubusercontent.com/61595808/137636946-d4f31958-e84a-4fcb-a202-9120739e5e7d.png)
 
-
+![image](https://user-images.githubusercontent.com/61595808/137637007-8a1e6757-7555-4158-ad13-be2bb28ff354.png)
