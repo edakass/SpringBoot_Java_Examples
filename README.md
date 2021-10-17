@@ -22,7 +22,6 @@ Model:Controller ile View arasındaki data transferine denir
 
 Bu format Json formatıdır.
 
--![image](https://user-images.githubusercontent.com/61595808/137636952-0f6549f2-0f39-423f-a9e9-e10ce2070f79.png)
 
 ![image](https://user-images.githubusercontent.com/61595808/137636941-2200c93f-434d-48fb-a51f-d53735a8dc81.png)
 
